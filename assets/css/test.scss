@@ -1,0 +1,16 @@
+.couch {
+	padding: 2em;
+	height: 37in;
+	width: 88in;
+	z-index: 40;  
+}
+  
+.couch-leather {
+	@extend .couch;
+	background: saddlebrown;
+}
+
+.couch-fabric {
+	@extend .couch;
+	background: linen;
+}

@@ -1,0 +1,16 @@
+.couch, .couch-fabric, .couch-leather {
+  padding: 2em;
+  height: 37in;
+  width: 88in;
+  z-index: 40;
+}
+
+.couch-leather {
+  background: saddlebrown;
+}
+
+.couch-fabric {
+  background: linen;
+}
+
+/*# sourceMappingURL=test2.css.map */
